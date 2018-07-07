@@ -3,6 +3,8 @@
 ### How to run?
 
 * Download [build](https://github.com/raccoonberus/prostokvashino-acceptance/raw/master/build/prostokvashino-acceptance-build.zip)
+* Extract zip archivement
+* Install Java Runtime from [here](https://www.java.com/inc/BrowserRedirect1.jsp?locale=ru)
 * Run app with 
   * **run.sh** on Linux
   * **run.bat** on Windows

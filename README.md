@@ -9,4 +9,4 @@
 
 ### Tests
 
-* com.adwatch.prostokvashino.scenario.QuizScenario - tests about milk history
+* **com.adwatch.prostokvashino.scenario.QuizScenario** - tests about milk history

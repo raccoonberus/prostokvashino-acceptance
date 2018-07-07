@@ -28,6 +28,7 @@ zip ./prostokvashino-acceptance-build.zip \
     chromedriver.exe \
     chromedriver \
     .env.dist \
+    env \
     prostokvashino-acceptance.jar \
     run.bat \
     run.sh

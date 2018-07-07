@@ -6,8 +6,8 @@
 * Download [build](https://github.com/raccoonberus/prostokvashino-acceptance/raw/master/build/prostokvashino-acceptance-build.zip)
 * Extract zip archivement
 * Create file with env vars
-  * clone .env.dist with .env name and update it (for Linux)
-  * update env (for Windows)
+  * clone **.env.dist** with **.env** name and update it (for Linux)
+  * update **env** file (for Windows)
 * Run app with 
   * **run.sh** on Linux
   * **run.bat** on Windows

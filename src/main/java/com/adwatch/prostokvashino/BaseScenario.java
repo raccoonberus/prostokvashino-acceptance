@@ -39,7 +39,8 @@ public class BaseScenario {
 
     @AfterClass
     public static void tearDownClass() {
-        driver.quit();
+        if (null != driver)
+            driver.quit();
     }
 
     protected static void authorize() throws InterruptedException {
